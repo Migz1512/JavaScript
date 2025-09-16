@@ -1,0 +1,22 @@
+body{
+    background-color: purple;
+    text-align: center;
+    color: white;
+    font-size: 1.25rem;
+}
+
+button{
+    background-color: black;
+    color: white;
+    font-size: 1.25rem;
+    padding: 4px 8px;
+    border-radius: 8px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#resultado{
+    color: white;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
